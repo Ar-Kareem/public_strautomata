@@ -1,0 +1,189 @@
+{
+  "configs": {
+    "battleships/OLD_world1": {
+      "gameId": "battleships",
+      "worldId": "OLD_world1",
+      "config": "{\n    \"n\": 10,\n    \"ship_lengths\": [5, 4, 3, 3, 2]\n}"
+    },
+    "battleships/world1": {
+      "gameId": "battleships",
+      "worldId": "world1",
+      "config": "{\n    \"n\": 10,\n    \"ship_lengths\": [5, 4, 3, 3, 2]\n}"
+    },
+    "blackjack/OLD_world1": {
+      "gameId": "blackjack",
+      "worldId": "OLD_world1",
+      "config": "{\n    \"target_min\": 10,\n    \"target_max\": 30\n}"
+    },
+    "blackjack/world1": {
+      "gameId": "blackjack",
+      "worldId": "world1",
+      "config": "{\n    \"target_min\": 10,\n    \"target_max\": 30\n}"
+    },
+    "chess/worldmem1": {
+      "gameId": "chess",
+      "worldId": "worldmem1",
+      "config": "{\n    \"memory\": true\n}"
+    },
+    "chess/worlducimem1": {
+      "gameId": "chess",
+      "worldId": "worlducimem1",
+      "config": "{\n    \"memory\": true\n}"
+    },
+    "connect4/OLD_world1": {
+      "gameId": "connect4",
+      "worldId": "OLD_world1",
+      "config": "{\n    \"rows\": 6,\n    \"cols\": 7\n}"
+    },
+    "connect4/world1": {
+      "gameId": "connect4",
+      "worldId": "world1",
+      "config": "{\n    \"rows\": 6,\n    \"cols\": 7\n}"
+    },
+    "go/worldmem1": {
+      "gameId": "go",
+      "worldId": "worldmem1",
+      "config": "{\n    \"memory\": true\n}"
+    },
+    "phantom_ttt/world2": {
+      "gameId": "phantom_ttt",
+      "worldId": "world2",
+      "config": "{\n    \"reveal_legal_moves\": false\n}"
+    },
+    "tic_tac_toe_3d/OLD_world1": {
+      "gameId": "tic_tac_toe_3d",
+      "worldId": "OLD_world1",
+      "config": "{\n    \"n\": 3\n}"
+    },
+    "tic_tac_toe_3d/world1": {
+      "gameId": "tic_tac_toe_3d",
+      "worldId": "world1",
+      "config": "{\n    \"n\": 3\n}"
+    },
+    "tic_tac_toe/OLD_world1": {
+      "gameId": "tic_tac_toe",
+      "worldId": "OLD_world1",
+      "config": "{\n    \"n\": 3\n}"
+    },
+    "tic_tac_toe/OLD_world2": {
+      "gameId": "tic_tac_toe",
+      "worldId": "OLD_world2",
+      "config": "{\n    \"n\": 4\n}"
+    },
+    "tic_tac_toe/world1": {
+      "gameId": "tic_tac_toe",
+      "worldId": "world1",
+      "config": "{\n    \"n\": 3\n}"
+    },
+    "tic_tac_toe/world2": {
+      "gameId": "tic_tac_toe",
+      "worldId": "world2",
+      "config": "{\n    \"n\": 4\n}"
+    },
+    "amazons/world1": {
+      "gameId": "amazons",
+      "worldId": "world1",
+      "config": null
+    },
+    "backgammon/old_world1": {
+      "gameId": "backgammon",
+      "worldId": "old_world1",
+      "config": null
+    },
+    "backgammon/world1": {
+      "gameId": "backgammon",
+      "worldId": "world1",
+      "config": null
+    },
+    "breakthrough/world1": {
+      "gameId": "breakthrough",
+      "worldId": "world1",
+      "config": null
+    },
+    "checkers/world1": {
+      "gameId": "checkers",
+      "worldId": "world1",
+      "config": null
+    },
+    "chess/world1": {
+      "gameId": "chess",
+      "worldId": "world1",
+      "config": null
+    },
+    "chess/worlduci1": {
+      "gameId": "chess",
+      "worldId": "worlduci1",
+      "config": null
+    },
+    "clobber/world1": {
+      "gameId": "clobber",
+      "worldId": "world1",
+      "config": null
+    },
+    "connect4/dummy_world_cost": {
+      "gameId": "connect4",
+      "worldId": "dummy_world_cost",
+      "config": null
+    },
+    "dots_and_boxes/world1": {
+      "gameId": "dots_and_boxes",
+      "worldId": "world1",
+      "config": null
+    },
+    "go/world1": {
+      "gameId": "go",
+      "worldId": "world1",
+      "config": null
+    },
+    "havannah/world1": {
+      "gameId": "havannah",
+      "worldId": "world1",
+      "config": null
+    },
+    "hex/world1": {
+      "gameId": "hex",
+      "worldId": "world1",
+      "config": null
+    },
+    "lines_of_action/world1": {
+      "gameId": "lines_of_action",
+      "worldId": "world1",
+      "config": null
+    },
+    "mancala/OLD_world1": {
+      "gameId": "mancala",
+      "worldId": "OLD_world1",
+      "config": null
+    },
+    "mancala/world1": {
+      "gameId": "mancala",
+      "worldId": "world1",
+      "config": null
+    },
+    "nim/world1": {
+      "gameId": "nim",
+      "worldId": "world1",
+      "config": null
+    },
+    "othello/world1": {
+      "gameId": "othello",
+      "worldId": "world1",
+      "config": null
+    },
+    "pentago/world1": {
+      "gameId": "pentago",
+      "worldId": "world1",
+      "config": null
+    },
+    "phantom_ttt/world1": {
+      "gameId": "phantom_ttt",
+      "worldId": "world1",
+      "config": null
+    },
+    "poker/world1": {
+      "gameId": "poker",
+      "worldId": "world1",
+      "config": null
+    }
+  }
+}
